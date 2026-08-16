@@ -1,5 +1,5 @@
 > [!WARNING]
-> **Archived upstream fork/reference. Do not use this repository for new work.**
+> **Archive pending. Do not use this repository for new work.** This upstream fork/reference is scheduled for archive once repository administration permission is available.
 >
 > - **Upstream:** [`kmccleary3301/scrollmark`](https://github.com/kmccleary3301/scrollmark)
 > - **License and provenance:** MIT. Upstream history and existing copyright and license notices are preserved.
