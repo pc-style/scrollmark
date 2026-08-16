@@ -1,3 +1,9 @@
+> **Forked/imported from:** [https://github.com/kmccleary3301/scrollmark](https://github.com/kmccleary3301/scrollmark)  
+> **License:** MIT (existing license and provenance notices are preserved).  
+> **pc-style delta:** Custom export columns, bookmark indexing, and package-description work; the export-column work was subsequently contributed upstream and merged.  
+> **Maintenance scope:** Upstream contribution work is evidenced by the merged export-columns pull request; no broader pc-style maintenance commitment is documented.  
+> **Sync policy:** No sync policy is documented. Use upstream for current releases, issues, and security information.
+
 <div align="center">
   <img src="docs/screenshots/hero-bookmarks-masonry-research.png" alt="Scrollmark fullscreen bookmarks masonry research view" width="960" />
 
