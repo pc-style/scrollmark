@@ -1,8 +1,11 @@
-> **Forked/imported from:** [https://github.com/kmccleary3301/scrollmark](https://github.com/kmccleary3301/scrollmark)  
-> **License:** MIT (existing license and provenance notices are preserved).  
-> **pc-style delta:** Custom export columns, bookmark indexing, and package-description work; the export-column work was subsequently contributed upstream and merged.  
-> **Maintenance scope:** Upstream contribution work is evidenced by the merged export-columns pull request; no broader pc-style maintenance commitment is documented.  
-> **Sync policy:** No sync policy is documented. Use upstream for current releases, issues, and security information.
+> [!WARNING]
+> **Archived upstream fork/reference. Do not use this repository for new work.**
+>
+> - **Upstream:** [`kmccleary3301/scrollmark`](https://github.com/kmccleary3301/scrollmark)
+> - **License and provenance:** MIT. Upstream history and existing copyright and license notices are preserved.
+> - **Maintained pc-style delta:** None.
+> - **Historical unmaintained delta:** Custom export columns, bookmark indexing, and package-description work. The export-column work was contributed upstream and merged in [`kmccleary3301/scrollmark#3`](https://github.com/kmccleary3301/scrollmark/pull/3).
+> - **Maintenance:** This snapshot is not synced or supported. Use upstream for current code, releases, issues, and security updates.
 
 <div align="center">
   <img src="docs/screenshots/hero-bookmarks-masonry-research.png" alt="Scrollmark fullscreen bookmarks masonry research view" width="960" />
